@@ -11,6 +11,7 @@ namespace test1
         static void Main(string[] args)
         {
             Console.WriteLine("ххехехехехехе");
+            Console.WriteLine("Я таблица произвооодных");
         }
     }
 }

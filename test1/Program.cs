@@ -12,6 +12,7 @@ namespace test1
         {
             Console.WriteLine("ххехехехехехе");
             Console.WriteLine("Я таблица произвооодных");
+	    Console.WriteLine("Нет, таблица интеграллов");
         }
     }
 }

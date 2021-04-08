@@ -13,7 +13,9 @@ namespace test1
             Console.WriteLine("ххехехехехехе");
             Console.WriteLine("Я таблица произвооодных");
             Console.WriteLine("Нет, таблица интеграллов");
+            Console.WriteLine("Леночка Тихонова!");
             Console.WriteLine("Мне стыдно за вас!!! Гы!!!");
+            Console.WriteLine("ЕЕЕЕЕЕЙЙЙ!");
         }
     }
 }
